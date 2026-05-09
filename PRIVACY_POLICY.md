@@ -3,7 +3,7 @@
 **Last updated:** May 7, 2026  
 **Developer:** MargoLA  
 **Contact:** ritaanisimova@gmail.com  
-**App ID:** com.ironlion.shadowpack
+**App ID:** com.margola.shadowpack
 
 ---
 
